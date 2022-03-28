@@ -1,0 +1,14 @@
+.bg-blue {
+  background-color: #003155;
+}
+.bg-light-blue {
+  background-color: #e9ecef;
+}
+
+.nav-item:hover {
+  background-color: #004475;
+}
+
+.dropdown-menu {
+  background-color: #003155;
+}
